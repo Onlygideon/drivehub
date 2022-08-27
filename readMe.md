@@ -25,7 +25,3 @@
 ### Add Student Complaint for a driver
 
 ### Fetch all Complaints directed at a driver
-
-### Add Comment for a product
-
-### Driver average rating
