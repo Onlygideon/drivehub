@@ -1,6 +1,6 @@
 # DriveHub
 
-## This is a backend API for a driving school company web app.
+## This is a backend API for a driving school company web app, built majorly using NestJs, MongoDb, and postman for API testing..
 
 ## This API has endpoints for the following functionalities:-
 
